@@ -29,7 +29,7 @@ The dashboard enables stakeholders to monitor performance, identify sales patter
 
 ## Dashboard Preview
 
-![Dashboard](sales-dashboard.png)
+![Dashboard](salesdashboard.png)
 
 ## Author
 
